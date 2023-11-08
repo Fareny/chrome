@@ -1,6 +1,6 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-import './popup.css'
+import style from './popup.module.css'
 
 const test = (
     <div>
